@@ -45,6 +45,13 @@ nav{
     align-items: center
 
 }
+/* nav:nth-child(4)
+{
+    align-self: flex-end;
+}
+nav:nth-child(5){
+    align-self: flex-end;
+} */
 
 nav a{
     padding: .5em 2em;
